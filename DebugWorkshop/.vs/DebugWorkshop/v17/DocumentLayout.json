@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\MAG\\year2\\c\u002B\u002B\\semesterA\\week6\\Debug\\DebugWorkshop\\SafeAndSound\\SafeAndSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\SafeAndSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\MAG\\year2\\c\u002B\u002B\\semesterA\\week6\\Debug\\DebugWorkshop\\SafeAndSound\\part1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\part1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "part1.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\MAG\\year2\\c\u002B\u002B\\semesterA\\week6\\Debug\\DebugWorkshop\\SafeAndSound\\part1.cpp",
+              "RelativeDocumentMoniker": "SafeAndSound\\part1.cpp",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\MAG\\year2\\c\u002B\u002B\\semesterA\\week6\\Debug\\DebugWorkshop\\SafeAndSound\\part1.cpp",
+              "RelativeToolTip": "SafeAndSound\\part1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T18:59:19.481Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "SafeAndSound\\part2.cpp",
               "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\MAG\\year2\\c\u002B\u002B\\semesterA\\week6\\Debug\\DebugWorkshop\\SafeAndSound\\part2.cpp",
               "RelativeToolTip": "SafeAndSound\\part2.cpp",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-01T18:53:14.833Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "SafeAndSound\\SafeAndSound.cpp",
               "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\MAG\\year2\\c\u002B\u002B\\semesterA\\week6\\Debug\\DebugWorkshop\\SafeAndSound\\SafeAndSound.cpp",
               "RelativeToolTip": "SafeAndSound\\SafeAndSound.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-01T18:41:29Z",
               "EditorCaption": ""

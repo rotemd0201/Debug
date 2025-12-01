@@ -5,12 +5,14 @@
 char* safe_string_copy(char* dest, unsigned int destsize, char* src)
 {
 	unsigned int srcsize = (unsigned int)strlen(src);
-	if (srcsize >= destsize)
+
+	if (srcsize > destsize)
 		throw std::overflow_error("possible buffer overflow");
 
 	char* ret = dest;
-	for (unsigned int i = 0; i < srcsize * sizeof(*src); i++)
+	for (unsigned int i = 0; i <= srcsize * sizeof(*src); i++)
 		*dest++ = *src++;
+
 	return ret;
 }
 
